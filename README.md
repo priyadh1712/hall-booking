@@ -9,6 +9,19 @@ This is a simple Hall Booking API that allows users to:
 - View customer booking data
 - Count how many times a customer has booked a room
 
+### URL's
+1. https://hall-booking-gwcz.onrender.com/hall-booking/create-room - CREATE ROOM
+
+2. https://hall-booking-gwcz.onrender.com/hall-booking/get-all-rooms - ALL ROOM DETAILS
+
+3. https://hall-booking-gwcz.onrender.com/hall-booking/booking-room - BOOK ROOMS [WITHOUT CONFLICTS]
+
+4. https://hall-booking-gwcz.onrender.com/hall-booking/booked-data - VIEW BOOKED ROOM DATA
+
+5. https://hall-booking-gwcz.onrender.com/hall-booking/customer-data - VIEW CUSTOMER DATA
+
+6. https://hall-booking-gwcz.onrender.com/bookedCount/Priya%20Dharshini%20Ashok - BOOKED COUNT
+
 ### API Endpoints
 
 1. **POST /create-room**  
